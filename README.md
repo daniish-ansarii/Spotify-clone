@@ -1,40 +1,29 @@
-# 🎵 Spotify Clone UI
+# Spotify Clone UI 🎧
 
-A clean and responsive front-end **Spotify Clone UI** built using **HTML** and **CSS** — designed to replicate the look and feel of Spotify’s web player.
+A simple front-end **Spotify Clone** built using **HTML** and **CSS**.
 
-![Project Screenshot](./assets/preview.png)
+## 🔨 Tech Stack
+- HTML5
+- CSS3
+- Font Awesome (for icons)
+- Google Fonts (Montserrat)
 
----
+## 📂 Project Structure
+- `index.html` – Main structure
+- `style.css` – Styling and layout
+- `assets/` – Images and icons
 
-## 🔧 Features
+## 📸 Preview
+A static replica of Spotify’s web player interface with:
+- Sidebar navigation
+- Music library and cards
+- Sticky navigation bar
+- Music player layout
 
-- 🎧 Responsive Spotify-like UI
-- 🎨 Custom-designed sidebar, library, and music cards
-- 💡 Sticky navigation bar
-- ⏯️ Music control bar with custom icons
-- 🖼 Smooth layout using Flexbox and media queries
+## 🚀 Getting Started
 
----
+To run this project locally:
 
-## 🛠️ Tech Stack
-
-| Tech | Description |
-|------|-------------|
-| 🔵 HTML5 | Semantic structure |
-| 🟣 CSS3 | Styling, Flexbox, responsive design |
-| 🖼 Font Awesome | Icons for navigation and controls |
-| 🔤 Google Fonts | Montserrat for clean typography |
-
----
-
-## 📁 Folder Structure
-
+1. Clone the repository:
 ```bash
-.
-├── index.html
-├── style.css
-├── assets/
-│   ├── logo.png
-│   ├── library_icon.png
-│   ├── player_icon1.png ...
-│   └── card1img.jpeg ...
+git clone https://github.com/your-username/spotify-clone.git
